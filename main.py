@@ -2,10 +2,8 @@ from stanfordkarel import *
 
 
 def main():
-    move()
-    turn_left()
-    move()
-    turn_left()
+    return
+
 
 
 if __name__ == "__main__":
